@@ -1,2 +1,4 @@
 # mariamekh-EPAMJSMENTORING
-Private repository for @mariamekh
+ 
+http://mariamekh.github.io/fancyweather
+
