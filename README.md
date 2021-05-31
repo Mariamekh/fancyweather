@@ -1,2 +1,2 @@
-# fancyweather
-http://mariamekh.github.io/fancyweather
+# mariamekh-EPAMJSMENTORING
+Private repository for @mariamekh
